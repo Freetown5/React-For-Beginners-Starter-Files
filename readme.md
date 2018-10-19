@@ -1,3 +1,5 @@
+- Forked a version of this so that I could mess around with file structure and component organization (It tends to matter in the long run)
+
 ![](http://wes.io/dgAQ/content)
 
 # React For Beginners — [ReactForBeginners.com](https://ReactForBeginners.com)
