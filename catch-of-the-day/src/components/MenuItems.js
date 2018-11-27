@@ -4,6 +4,11 @@ import Header from './Header';
 import Fish from './Fish';
 
 class MenuItems extends React.Component {
+    static propTypes = {
+        fishes: PropTypes.object,
+        addToOrder: PropTypes.func
+    }
+
     render(){
         return(
             <div className="menu">

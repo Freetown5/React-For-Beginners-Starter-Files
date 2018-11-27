@@ -1,6 +1,6 @@
 import React from 'react';
 import { BrowserRouter, Route, Switch } from 'react-router-dom';
-import StorePicker from './StorePicker';
+import StorePicker from './StorePicker/StorePicker';
 import NotFound from './NotFound';
 import App from './App';
 
