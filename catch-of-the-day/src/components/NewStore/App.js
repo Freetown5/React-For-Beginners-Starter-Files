@@ -1,10 +1,10 @@
 import React from "react";
 import PropTypes from "prop-types";
-import MenuItems from './MenuItems';
-import Order from './Order';
-import Inventory from './Inventory';
-import sampleFishes from '../sample-fishes';
-import base from '../base';
+import MenuItems from './MenuItems/MenuItems';
+import Order from './Order/Order';
+import Inventory from './Inventory/Inventory';
+import sampleFishes from '../../sample-fishes';
+import base from '../../base';
 
 class App extends React.Component {
     state = {

@@ -1,10 +1,10 @@
 import React from 'react';
 import firebase from 'firebase';
-import PropTypes from "prop-types";
-import AddFishForm from './AddFishForm';
-import EditFishForm from "./EditFishForm";
-import Login from './Login';
-import base, { firebaseApp } from '../base';
+import PropTypes from 'prop-types';
+import AddFishForm from './InventorySubComponents/AddFishForm';
+import EditFishForm from './InventorySubComponents/EditFishForm';
+import Login from './InventorySubComponents/Login';
+import base, { firebaseApp } from '../../../base';
 
 
 
