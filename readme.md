@@ -12,8 +12,9 @@ In the best circumstances, this would make it easier to navigate the App. Some p
 
 ## Original Versions
 
-Original Videos here: [ReactForBeginners.com](https://ReactForBeginners.com)
-Original Repository here: [](https://github.com/wesbos/React-For-Beginners-Starter-Files)
+Original Videos here: [Website](https://ReactForBeginners.com)
+
+Original Repository here: [Repository](https://github.com/wesbos/React-For-Beginners-Starter-Files)
 
 ## To run project
 1. `cd` into `catch-of-the-day` and follow along with the videos
